@@ -1,0 +1,10 @@
+artifact_location: file:///home/madan/Machine_learning/mloops_dsmp/mlops_project/notebooks/mlruns/951487367942801017/models/m-06ebcd530f564fdd94f4a3e9c2ac1f7f/artifacts
+creation_timestamp: 1757071741612
+experiment_id: '951487367942801017'
+last_updated_timestamp: 1757071744159
+model_id: m-06ebcd530f564fdd94f4a3e9c2ac1f7f
+model_type: null
+name: model
+source_run_id: 4f533c86cec2481ebf6f5c424a5c1321
+status: 2
+status_message: null

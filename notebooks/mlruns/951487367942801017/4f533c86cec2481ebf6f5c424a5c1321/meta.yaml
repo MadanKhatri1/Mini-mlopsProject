@@ -1,0 +1,14 @@
+artifact_uri: file:///home/madan/Machine_learning/mloops_dsmp/mlops_project/notebooks/mlruns/951487367942801017/4f533c86cec2481ebf6f5c424a5c1321/artifacts
+end_time: 1757071744161
+entry_point_name: ''
+experiment_id: '951487367942801017'
+lifecycle_stage: active
+run_id: 4f533c86cec2481ebf6f5c424a5c1321
+run_name: able-bear-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757071737090
+status: 3
+tags: []
+user_id: madan

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/madan/Machine_learning/mloops_dsmp/mlops_project/notebooks/mlruns/951487367942801017/4cfdcff58bc9411d8720b19b1972e66c/artifacts
+end_time: 1757071741231
+entry_point_name: ''
+experiment_id: '951487367942801017'
+lifecycle_stage: active
+run_id: 4cfdcff58bc9411d8720b19b1972e66c
+run_name: 'LR with params: {''C'': 1, ''penalty'': ''l2'', ''solver'': ''liblinear''}'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757071741028
+status: 3
+tags: []
+user_id: madan
