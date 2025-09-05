@@ -1,6 +1,0 @@
-artifact_location: file:///home/madan/Machine_learning/mloops_dsmp/mlops_project/notebooks/mlruns/951487367942801017
-creation_time: 1757071639378
-experiment_id: '951487367942801017'
-last_update_time: 1757071639378
-lifecycle_stage: active
-name: LoR Hyperparameter Tuning
